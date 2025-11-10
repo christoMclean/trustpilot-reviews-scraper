@@ -1,0 +1,26 @@
+{
+  "companyUrl": "https://www.trustpilot.com/review/www.trustpilot.com",
+  "maxPages": 2,
+  "minDelay": 1.0,
+  "maxDelay": 3.0,
+  "filters": {
+    "minRating": 1,
+    "maxRating": 5,
+    "languages": [
+      "en"
+    ],
+    "countries": [],
+    "keywordsInclude": [],
+    "keywordsExclude": [],
+    "verifiedOnly": false,
+    "dateFrom": null,
+    "dateTo": null
+  },
+  "exportFormats": [
+    "json",
+    "csv",
+    "excel",
+    "xml"
+  ],
+  "outputDir": "data"
+}
